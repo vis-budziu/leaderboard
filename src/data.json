@@ -2,29 +2,92 @@
   "title": "REZULTATAI",
   "tasks": [
     "UŽDUOTIS 1",
-    "UŽDUOTIS 2",
-    "UŽDUOTIS 3"
+    "UŽDUOTIS 2"
   ],
   "participants": [
     {
-      "name": "NeonGhost",
-      "scores": [95, 88, 92]
+      "name": "Katarina",
+      "scores": [0, "?"]
     },
     {
-      "name": "CyberPhantom",
-      "scores": [87, 94, 89]
+      "name": "Tyla",
+      "scores": [0, "?"]
     },
     {
-      "name": "ByteRunner",
-      "scores": [92, 79, 85]
+      "name": "Domas123",
+      "scores": [0, "?"]
     },
     {
-      "name": "CodeBreaker",
-      "scores": [78, 91, 88]
+      "name": "Wawausas",
+      "scores": [0, "?"]
     },
     {
-      "name": "ShadowDev",
-      "scores": [85, 82, 90]
+      "name": "Bruknė",
+      "scores": [0, "?"]
+    },
+    {
+      "name": "Šermukšnis",
+      "scores": [0, "?"]
+    },
+    {
+      "name": "pelėda",
+      "scores": [0, "?"]
+    },
+    {
+      "name": "Napoleonas",
+      "scores": [0, "?"]
+    },
+    {
+      "name": "Ožekšnis",
+      "scores": [0, "?"]
+    },
+    {
+      "name": "eva",
+      "scores": [0, "?"]
+    },
+    {
+      "name": "kinderis",
+      "scores": [0, "?"]
+    },
+    {
+      "name": "Vaela",
+      "scores": [0, "?"]
+    },
+    {
+      "name": "Vytautas",
+      "scores": [0, "?"]
+    },
+    {
+      "name": "arktis 1",
+      "scores": [0, "?"]
+    },
+    {
+      "name": "Ilgametis Kandidatas",
+      "scores": [0, "?"]
+    },
+    {
+      "name": "Dūmas",
+      "scores": [0, "?"]
+    },
+    {
+      "name": "Sviesuliukas",
+      "scores": [0, "?"]
+    },
+    {
+      "name": "Procesas",
+      "scores": [0, "?"]
+    },
+    {
+      "name": "Migla",
+      "scores": [0, "?"]
+    },
+    {
+      "name": "LDimperator",
+      "scores": [0, "?"]
+    },
+    {
+      "name": "ŠešėlioTyla",
+      "scores": [0, "?"]
     }
   ]
 }

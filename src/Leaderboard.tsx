@@ -15,7 +15,9 @@ export default function Leaderboard() {
   const { title, tasks, participants } = data as LeaderboardData;
 
   const calculateTotal = (scores: number[]) => {
-    return scores.reduce((sum, score) => sum + score, 0);
+    return scores.reduce((sum, score) => {
+      return typeof score === "number" ? sum + score : sum + 0;
+    }, 0);
   };
 
   const sortedParticipants = [...participants].sort(
